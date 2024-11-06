@@ -5,9 +5,9 @@ do Spring Security e documentação da api com Swagger
 
 Ele pode ser realizado em duplas
 
-Participante 1: 
+Participante 1: (RM552671) | Willian Daniel Oliveira Dantas
 
-Participante 2:
+Participante 2: (RM553640) | Marcelo Vieira Junior
 
 O CP conta com uma parte prática dividia em:
 * Implementação de segurança de rota (7 pontos)
@@ -19,3 +19,4 @@ O CP conta com uma parte prática dividia em:
 * Apresentação no dia 06/11 (1 ponto)
 
 ### O CP será **zerado** caso o código não compile
+
